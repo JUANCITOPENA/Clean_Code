@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a la búsqueda de la excelencia en el arte de la programación! 👩‍💻👨‍💻
 
-![Imagen](CELANCODE.jpg)
+![Imagen](CLEANCODE.jpg)
 
 ## ¿Qué es Clean Code?
 
