@@ -2,6 +2,8 @@
 
 ¡Bienvenidos a la búsqueda de la excelencia en el arte de la programación! 👩‍💻👨‍💻
 
+![Imagen](CELANCODE.jpg)
+
 ## ¿Qué es Clean Code?
 
 **Clean Code** (código limpio) se refiere a un estilo de escritura de código en programación que se centra en producir software legible, comprensible y mantenible. Este término fue popularizado por el famoso autor y programador Robert C. Martin en su libro "Clean Code: A Handbook of Agile Software Craftsmanship" (Código Limpio: Un Manual de Artesanía de Software Ágil). La idea central detrás del Clean Code es que el código fuente debe ser tan claro y fácil de entender como sea posible, de modo que otros programadores (y el propio autor del código en el futuro) puedan trabajar con él sin dificultades.
