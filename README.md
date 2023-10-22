@@ -26,7 +26,7 @@ Algunos de los principios y prácticas asociados con el Clean Code incluyen:
 
 ## Lectura Recomendada
 
-Si deseas profundizar en el concepto de Clean Code, te recomendamos leer el libro "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert C. Martin. Puedes descargarlo de forma gratuita en formato PDF [aquí](https://example.com/clean-code.pdf). 📕👉
+Si deseas profundizar en el concepto de Clean Code, te recomendamos leer el libro "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert C. Martin. Puedes descargarlo de forma gratuita en formato PDF [aquí]([https://example.com/clean-code.pdf](https://drive.google.com/file/d/1DeTpIxbVaNR_wSoQi9ovc3PeSsDjjKO4/view?usp=sharing)). 📕👉
 
 ## Colabora
 
